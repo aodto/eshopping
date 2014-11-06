@@ -1,0 +1,34 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+#logo {
+	text-align: center;
+	font-size: 28px;
+	font-weight: bold;
+}
+#cart {
+	text-align: center;
+}
+
+#container {
+	width: 990px;
+	background-color: #fefefe;
+}
+#container .content {
+	padding: 10px;
+}
+
+header {
+	padding: 10px 0;
+	background-color: #ffeeff;
+}
+
+footer {
+	padding: 10px 0;
+	background-color: #ffeeff;
+}
+#copyright{
+	text-align: center;
+}
